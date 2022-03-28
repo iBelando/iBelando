@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/iBelando/iBelando/blob/main/img/mario-coding.webp"
+    src="https://github.com/iBelando/iBelando/blob/master/img/mario-coding.webp"
     alt="Mario Coding Webp"
   />
 </p>
