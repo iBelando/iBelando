@@ -14,6 +14,20 @@
 </p>
 
 <p align="center">
+  AI &amp; full-stack engineer based in Rosario, Argentina. Ex-Disney, ex-Globant, freelance since 2014.<br />
+  I build AI agents and agentic systems, plus web, mobile and backend work in TypeScript, Go and Python.
+</p>
+
+<p align="center">
+  <a href="https://ibelando.com/">ibelando.com</a> ·
+  <a href="https://ibelando.com/ai-agent-developer/">AI agent development</a> ·
+  <a href="https://ibelando.com/nearshore-software-development/">Nearshore for US teams</a> ·
+  <a href="https://ibelando.com/freelance-developer-uruguay/">Uruguay</a> ·
+  <a href="https://ibelando.com/freelance-developer-mexico/">Mexico</a> ·
+  <a href="https://ibelando.com/pensieve/">Blog</a>
+</p>
+
+<p align="center">
   <img
     src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"
     alt=".NET"
